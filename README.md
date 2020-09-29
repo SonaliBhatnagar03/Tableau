@@ -3,10 +3,10 @@ Tableau Projects
 
 Tasks performed for this Project –
 
-Importing data
-Finding most popular end stations
-Finding most popular start stations
-Average of trip duration
-Visualizing distribution of common end stations on popular start stations
-Finding out start and stop Times
-Creating a Dashboard combining all the above
+1.	Importing data
+2.	Finding most popular end stations
+3.	Finding most popular start stations
+4.	Average of trip duration
+5.	Visualizing distribution of common end stations on popular start stations
+6.	Finding out start and stop Times
+7.	Creating a Dashboard combining all the above
